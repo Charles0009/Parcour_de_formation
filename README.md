@@ -4,8 +4,8 @@ Formalisation et visualisation d’un parcours de formation en Télédétection.
 ## Il est réalisé par : 
 * Nicolas Rouyer : @NRouyer38
 * Sefiane Kachouani : @SefianeKach
-* Jules Pierrat :  JulesPierrat
-* Charles Laverdure : Charles0009
+* Jules Pierrat :  @JulesPierrat
+* Charles Laverdure : @Charles0009
 
 ### Sous la supervision de Marc Poupée, enseignant en télédetection à l'ENSG
 
