@@ -7,6 +7,6 @@ Formalisation et visualisation d’un parcours de formation en Télédétection.
 * Jules Pierrat :  @JulesPierrat
 * Charles Laverdure : @Charles0009
 
-### Sous la supervision de Marc Poupée, enseignant en télédetection à l'ENSG
+### Sous la supervision de Marc Poupée et Marie-Dominique Van Damme, enseignants en télédétection à l'ENSG
 
 
